@@ -1,4 +1,4 @@
-# How To add Riddle School 2 to your google site
+# How To add Papa's Taco Mia to your google site
 1. on the right side click on "Embed"
 2. Go to the "Embeded Code" tab and past the scripts from here https://pastebin.com/vVTr5A9i
 3. Once pasted click on next then save
